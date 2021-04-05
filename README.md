@@ -1,5 +1,5 @@
 ![Stats](https://github-readme-stats.vercel.app/api?username=Zaftan&show_icons=true&theme=nord)<br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zaftan&hide=mathematica&layout=compact&theme=nord)<br>
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zaftan&hide=mathematica&layout=compact&theme=nord)<br>-->
 ![Metrics](https://metrics.lecoq.io/Zaftan?template=classic&followup=1&languages=1&languages.ignored=Mathematica%2C%20Tcl&config.timezone=Europe%2FAmsterdam&config.animated=true)<br>
 
 <!--
