@@ -1,7 +1,9 @@
-### Hi there 👋
+![Stats](https://github-readme-stats.vercel.app/api?username=Zaftan&show_icons=true&theme=nord)<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zaftan&hide=mathematica&layout=compact&theme=nord)
+![Metrics](https://metrics.lecoq.io/Zaftan?template=classic&followup=1&languages=1&languages.ignored=Mathematica%2C%20Tcl&config.timezone=Europe%2FAmsterdam&config.animated=true)<br>
 
 <!--
-**Zaftan/zaftan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Zaftan/Zaftan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
